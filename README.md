@@ -27,11 +27,18 @@
 
 ---
 
-<img align="left" alt="DracoY's GitHub Stats" src="https://github-readme-stats.dracoy.vercel.app/api?username=DracoY-code&show_icons=true&hide_borders=true&count_private=true&theme=synthwave" /> <img align="left" alt="DracoY's Top Languages" src="https://github-readme-stats.dracoy.vercel.app/api/top-langs/?username=DracoY-code&show_icons=true&hide_borders=true&count_private=true&theme=synthwave&langs_count=6&layout=compact" />
-
----
-
+<details>
+<summary>⚡ Recent GitHub Activites</summary>
+<br>
 <!--START_SECTION:activity-->
+</details>
+
+<details>
+<summary>⚡ GitHub Stats</summary>
+<br>
+<img align="left" alt="DracoY's GitHub Stats" src="https://github-readme-stats.dracoy.vercel.app/api?username=DracoY-code&show_icons=true&hide_borders=true&count_private=true&theme=synthwave" /> <img align="left" alt="DracoY's Top Languages" src="https://github-readme-stats.dracoy.vercel.app/api/top-langs/?username=DracoY-code&show_icons=true&hide_borders=true&count_private=true&theme=synthwave&langs_count=6&layout=compact" />
+</details>
+
 
 <br />
 <br />
