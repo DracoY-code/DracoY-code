@@ -34,8 +34,8 @@
 ---
 
 <details>
-<summary>⚡ Recent GitHub Activites</summary>
-<br>
+    <summary>⚡ Recent GitHub Activites</summary>
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com//DracoY-code/Playtipy/pull/1) in [DracoY-code/Playtipy](https://github.com//DracoY-code/Playtipy)
 2. 💪 Opened PR [#1](https://github.com//DracoY-code/Playtipy/pull/1) in [DracoY-code/Playtipy](https://github.com//DracoY-code/Playtipy)
@@ -43,17 +43,15 @@
 4. 💪 Opened PR [#1](https://github.com//DracoY-code/PyRocSci/pull/1) in [DracoY-code/PyRocSci](https://github.com//DracoY-code/PyRocSci)
 5. 🎉 Merged PR [#1](https://github.com//DracoY-code/tkinter-login-form/pull/1) in [DracoY-code/tkinter-login-form](https://github.com//DracoY-code/tkinter-login-form)
 <!--END_SECTION:activity-->
+
 </details>
 
 <details>
-<summary>⚡ GitHub Stats</summary>
-<br>
+    <summary>⚡ GitHub Stats</summary>
+
 <img align="left" alt="DracoY's GitHub Stats" src="https://github-readme-stats.dracoy.vercel.app/api?username=DracoY-code&show_icons=true&hide_borders=true&count_private=true&theme=synthwave" /> <img align="left" alt="DracoY's Top Languages" src="https://github-readme-stats.dracoy.vercel.app/api/top-langs/?username=DracoY-code&show_icons=true&hide_borders=true&count_private=true&theme=synthwave&langs_count=6&layout=compact" />
+
 </details>
-
-
-<br />
-<br />
 
 [github]: https://github.com/DracoY-code/
 [reddit]: https://reddit.com/user/Red_Death_08/
