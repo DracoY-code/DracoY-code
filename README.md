@@ -27,6 +27,12 @@
 
 ---
 
+### 🎵 Now playing:
+
+[![Spotify](https://novatorem.dracoy.vercel.app/api/spotify)](https://open.spotify.com/user/dracoy)
+
+---
+
 <details>
 <summary>⚡ Recent GitHub Activites</summary>
 <br>
