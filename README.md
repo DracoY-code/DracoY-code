@@ -1,5 +1,10 @@
 ### Hey, it's DracoY aka [DracoY-code][github] 👋
 
+![GitHub followers](https://img.shields.io/github/followers/DracoY-code?color=%23181717&logo=GitHub)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Red_Death_08?color=%23FF4500&label=karma&logo=Reddit&style=flat-square)
+![Discord](https://img.shields.io/discord/753135336460124200?color=%237289DA&label=server&logo=discord&style=flat-square)
+![counter](https://komarev.com/ghpvc/?username=DracoY-code&color=brightgreen&style=flat-square&label=profile+views)
+
 ## I'm a Student, a Developer and a Friend!
 - 🌲 I'm currently learning everything!
 - 🚁 I'm open to learn and collabrate on awesome projects
