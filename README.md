@@ -5,6 +5,8 @@
 ![Discord](https://img.shields.io/discord/753135336460124200?color=%237289DA&label=server&logo=discord&style=flat-square)
 ![counter](https://komarev.com/ghpvc/?username=DracoY-code&color=brightgreen&style=flat-square&label=profile+views)
 
+![GIF](resources/hello_there_doggo.gif)
+
 ## I'm a Student, a Developer and a Friend!
 - 🌲 I'm currently learning everything!
 - 🚁 I'm open to learn and collabrate on awesome projects
