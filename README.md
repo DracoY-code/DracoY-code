@@ -1,4 +1,4 @@
-### Hey, it's DracoY aka [DracoY-code][github]
+### Hey, it's DracoY aka [DracoY-code][github] 👋
 
 ## I'm a Student, a Developer and a Friend!
 - 🌲 I'm currently learning everything!
@@ -12,6 +12,7 @@
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />][github]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/discord.svg" />][discord]
 
 ### Languages and Tools:
 
@@ -22,3 +23,4 @@
 
 [github]: https://github.com/DracoY-code/
 [reddit]: https://reddit.com/user/Red_Death_08/
+[discord]: https://discord.com/channels/@me/756207322707001345
