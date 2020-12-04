@@ -36,7 +36,6 @@
 
 ---
 
-<!---
 <details>
     <summary>⚡ Recent GitHub Activites</summary>
 
@@ -47,7 +46,6 @@
 4. 💪 Opened PR [#1](https://github.com/DracoY-code/PyRocSci/pull/1) in [DracoY-code/PyRocSci](https://github.com/DracoY-code/PyRocSci)
 5. 🎉 Merged PR [#1](https://github.com/DracoY-code/tkinter-login-form/pull/1) in [DracoY-code/tkinter-login-form](https://github.com/DracoY-code/tkinter-login-form)
 <!--END_SECTION:activity-->
---->
 
 </details>
 
