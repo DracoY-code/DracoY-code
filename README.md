@@ -36,7 +36,7 @@
 
 ---
 
-<details>
+[comment]: # (<details>
     <summary>⚡ Recent GitHub Activites</summary>
 
 <!--START_SECTION:activity-->
@@ -47,7 +47,7 @@
 5. 🎉 Merged PR [#1](https://github.com/DracoY-code/tkinter-login-form/pull/1) in [DracoY-code/tkinter-login-form](https://github.com/DracoY-code/tkinter-login-form)
 <!--END_SECTION:activity-->
 
-</details>
+</details>)
 
 <details>
     <summary>⚡ GitHub Stats</summary>
