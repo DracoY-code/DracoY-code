@@ -19,7 +19,6 @@
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />][github]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/reddit.svg" />][reddit]
-<!-- [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/discord.svg" />][discord] -->
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -37,19 +36,6 @@
 
 ---
 
-<!-- <details>
-    <summary>⚡ Recent GitHub Activites</summary>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/DracoY-code/DracoY-code/pull/2) in [DracoY-code/DracoY-code](https://github.com/DracoY-code/DracoY-code)
-2. 💪 Opened PR [#2](https://github.com/DracoY-code/DracoY-code/pull/2) in [DracoY-code/DracoY-code](https://github.com/DracoY-code/DracoY-code)
-3. 🎉 Merged PR [#1](https://github.com/DracoY-code/DracoY-code/pull/1) in [DracoY-code/DracoY-code](https://github.com/DracoY-code/DracoY-code)
-4. 💪 Opened PR [#1](https://github.com/DracoY-code/DracoY-code/pull/1) in [DracoY-code/DracoY-code](https://github.com/DracoY-code/DracoY-code)
-5. 🎉 Merged PR [#1](https://github.com/DracoY-code/tkinter-login-form/pull/1) in [DracoY-code/tkinter-login-form](https://github.com/DracoY-code/tkinter-login-form)
-<!--END_SECTION:activity-->
-
-</details> -->
-
 <details>
     <summary>⚡ GitHub Stats</summary>
 
@@ -59,7 +45,6 @@
 
 [github]: https://github.com/DracoY-code/
 [reddit]: https://reddit.com/user/Red_Death_08/
-[discord]: https://discord.com/channels/@me/756207322707001345
 [twitch]: https://www.twitch.tv/dracoy_08
 [facebook]: https://www.facebook.com/yashvardhan.singh.5686322/
 [instagram]: https://www.instagram.com/evildracoy/
