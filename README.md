@@ -19,7 +19,7 @@
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />][github]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/discord.svg" />][discord]
+<!-- [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/discord.svg" />][discord] -->
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -37,7 +37,7 @@
 
 ---
 
-<details>
+<!-- <details>
     <summary>⚡ Recent GitHub Activites</summary>
 
 <!--START_SECTION:activity-->
@@ -48,7 +48,7 @@
 5. 🎉 Merged PR [#1](https://github.com/DracoY-code/tkinter-login-form/pull/1) in [DracoY-code/tkinter-login-form](https://github.com/DracoY-code/tkinter-login-form)
 <!--END_SECTION:activity-->
 
-</details>
+</details> -->
 
 <details>
     <summary>⚡ GitHub Stats</summary>
