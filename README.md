@@ -16,7 +16,7 @@ My name is **Yashvardhan Singh** but you can call me *draco*. I'm a Software Eng
 
 [<img src="resources/icons8-github.svg" />][github]
 [<img src="resources/icons8-reddit.svg" />][reddit]
-[<img src="resources/icons8-spotify.svg" />][spotify]
+[<img src="resources/icons8-spotify-50.svg" />][spotify]
 [<img src="resources/icons8-twitch.svg" />][twitch]
 [<img src="resources/icons8-instagram.svg" />][instagram]
 [<img src="resources/icons8-twitter.svg" />][twitter]
