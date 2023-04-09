@@ -17,6 +17,7 @@ My name is **Yashvardhan Singh** but you can call me *draco*. I'm a Software Eng
 [<img src="resources/icons8-github.svg" />][github]
 [<img src="resources/icons8-reddit.svg" />][reddit]
 [<img width=50 height=50 src="resources/icons8-spotify.svg" />][spotify]
+[<img src="resources/icons8-linkedin.svg" />][linkedin]
 [<img src="resources/icons8-twitch.svg" />][twitch]
 [<img src="resources/icons8-instagram.svg" />][instagram]
 [<img src="resources/icons8-twitter.svg" />][twitter]
@@ -30,6 +31,7 @@ My name is **Yashvardhan Singh** but you can call me *draco*. I'm a Software Eng
 [github]: https://github.com/DracoY-code/
 [reddit]: https://reddit.com/user/Red_Death_08/
 [spotify]: https://open.spotify.com/user/31xwqzn4wadzt5eo7mnkaqcbotja?si=f25f2f1479214d87
+[linkedin]: https://www.linkedin.com/in/yashvardhan-singh-dtu/
 [twitch]: https://www.twitch.tv/dracoy_08
 [instagram]: https://www.instagram.com/evildracoy/
 [twitter]: https://twitter.com/evildracoy
