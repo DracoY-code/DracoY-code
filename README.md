@@ -7,6 +7,7 @@
 My name is **Yashvardhan Singh** but you can call me __draco__. I am a National Talent Search Examination (NTSE) scholar, since 2019. I am currently a Software Engineering major pursuing my degree from [the Delhi Technological University, India](http://dtu.ac.in/) with a serious passion to learn and explore new ideas through computers and music.
 
 * I am open-minded and adaptable, seeking new perspectives and understanding my place in this universe.
+* I am proficient in Python, C++ and Rust, and has worked on Web, Android, Data science and ML related projects.
 * I love music, and would love to be an artist... but lets just work on it slowly.
 * I enjoy learning about computers, so if you wanna collaborate, my DMs are open. I'm happy to help :)
 * I am also passionate about photography, video games, 3D modeling and audio engineering.
