@@ -1,16 +1,15 @@
-### Hey, it's DracoY aka [DracoY-code][github] 👋
+### Hey, it's Draco aka [DracoY-code][github] 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/DracoY-code?color=%23181717&logo=GitHub)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Red_Death_08?color=%23FF4500&label=karma&logo=Reddit&style=flat-square)
 ![counter](https://komarev.com/ghpvc/?username=DracoY-code&color=brightgreen&style=flat-square&label=profile+views)
 
-My name is **Yashvardhan Singh** but you can call me *draco*. I'm a Software Engineering major pursuing my degree from [the Delhi Technological University, India](http://dtu.ac.in/).
+My name is **Yashvardhan Singh** but you can call me __draco__. I am a National Talent Search Examination (NTSE) scholar, since 2019. I am currently a Software Engineering major pursuing my degree from [the Delhi Technological University, India](http://dtu.ac.in/) with a serious passion to learn and explore new ideas through computers and music.
 
-![Yoohoo_Mickey_Mouse](https://media.giphy.com/media/1kJxyyCq9ZHXX0GM3a/giphy.gif)
-
-* I wanna understand and learn everything with a broad mind, and figure out my place in the universe.
+* I am open-minded and adaptable, seeking new perspectives and understanding my place in this universe.
 * I love music, and would love to be an artist... but lets just work on it slowly.
 * I enjoy learning about computers, so if you wanna collaborate, my DMs are open. I'm happy to help :)
+* I am also passionate about photography, video games, 3D modeling and audio engineering.
 
 ### Connect with me:
 
