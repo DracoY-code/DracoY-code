@@ -1,7 +1,14 @@
 ### Hey, it's Draco aka [DracoY-code][github] 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/DracoY-code?color=%23181717&logo=GitHub)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Red_Death_08?color=%23FF4500&label=karma&logo=Reddit&style=flat-square)
+![Python](https://img.shields.io/badge/Python-grey?logo=python)
+![C++](https://img.shields.io/badge/C++-grey?logo=cplusplus)
+![Rust](https://img.shields.io/badge/Rust-grey?logo=rust)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-grey?logo=tensorflow)
+![Blender](https://img.shields.io/badge/Blender-grey?logo=blender)
+![MySQL](https://img.shields.io/badge/MySQL-grey?logo=mysql)
+![Jupyter](https://img.shields.io/badge/Jupyter-grey?logo=jupyter)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-grey?logo=visualstudiocode)
 ![counter](https://komarev.com/ghpvc/?username=DracoY-code&color=brightgreen&style=flat-square&label=profile+views)
 
 My name is **Yashvardhan Singh** but you can call me __draco__. I am a National Talent Search Examination (NTSE) scholar, since 2019. I am currently a Software Engineering major pursuing my degree from [the Delhi Technological University, India](http://dtu.ac.in/) with a serious passion to learn and explore new ideas through computers and music.
