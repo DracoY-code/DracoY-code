@@ -37,10 +37,10 @@ My name is **Yashvardhan Singh** but you can call me __draco__. I am a National 
 
 [github]: https://github.com/DracoY-code/
 [reddit]: https://reddit.com/user/dracolotl/
-[spotify]: https://open.spotify.com/user/31xwqzn4wadzt5eo7mnkaqcbotja?si=f25f2f1479214d87
+[spotify]: https://open.spotify.com/user/31xwqzn4wadzt5eo7mnkaqcbotja?si=f25f2f1479214d87/
 [linkedin]: https://www.linkedin.com/in/yvsingh088/
-[twitch]: https://www.twitch.tv/dracoy_08
+[twitch]: https://www.twitch.tv/dracoy_08/
 [instagram]: https://www.instagram.com/evildracoy/
-[twitter]: https://twitter.com/evildracoy
+[twitter]: https://twitter.com/evildracoy/
 
 [comment]: <> (Icons by <a target="_blank" href="https://icons8.com">Icons8</a>)
