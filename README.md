@@ -36,7 +36,7 @@ My name is **Yashvardhan Singh** but you can call me __draco__. I am a National 
 [![Spotify](https://novatorem.dracoy.vercel.app/api/spotify)](https://open.spotify.com/user/dracoy)
 
 [github]: https://github.com/DracoY-code/
-[reddit]: https://reddit.com/user/Red_Death_08/
+[reddit]: https://reddit.com/user/dracolotl/
 [spotify]: https://open.spotify.com/user/31xwqzn4wadzt5eo7mnkaqcbotja?si=f25f2f1479214d87
 [linkedin]: https://www.linkedin.com/in/yvsingh088/
 [twitch]: https://www.twitch.tv/dracoy_08
