@@ -15,7 +15,7 @@ My name is **Yashvardhan Singh** but you can call me __draco__. I am a National 
 
 * I am open-minded and adaptable, seeking new perspectives and understanding my place in this universe.
 * I am proficient in Python, C++ and Rust, and has worked on Web, Android, Data science and ML related projects.
-* I love music, and would love to be an artist... but lets just work on it slowly.
+* I love music, and would love to be an artist... but lets just work on it one step at a time.
 * I enjoy learning about computers, so if you wanna collaborate, my DMs are open. I'm happy to help :)
 * I am also passionate about photography, video games, 3D modeling and audio engineering.
 
