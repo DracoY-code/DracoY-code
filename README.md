@@ -11,7 +11,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-grey?logo=visualstudiocode)
 ![counter](https://komarev.com/ghpvc/?username=DracoY-code&color=brightgreen&style=flat-square&label=profile+views)
 
-My name is **Yashvardhan Singh** but you can call me __draco__. I am a National Talent Search Examination (NTSE) scholar, since 2019. I am currently a Software Engineering major pursuing my degree from [the Delhi Technological University, India](http://dtu.ac.in/) with a serious passion to learn and explore new ideas through computers and music.
+My name is **Yashvardhan Singh** but you can call me __draco__. I am a National Talent Search Examination (NTSE) scholar, since 2019. I am currently a Software Engineering major pursuing my degree from the [Delhi Technological University, India](http://dtu.ac.in/) with a serious passion to learn and explore new ideas through computers and music.
 
 * I am open-minded and adaptable, seeking new perspectives and understanding my place in this universe.
 * I am proficient in Python, C++ and Rust, and has worked on Web, Android, Data science and ML related projects.
