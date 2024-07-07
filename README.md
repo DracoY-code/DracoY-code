@@ -8,7 +8,7 @@
 ![Blender](https://img.shields.io/badge/Blender-grey?logo=blender)
 ![MySQL](https://img.shields.io/badge/MySQL-grey?logo=mysql)
 ![Jupyter](https://img.shields.io/badge/Jupyter-grey?logo=jupyter)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-grey?logo=visualstudiocode)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-grey?logo=vscodium)
 ![counter](https://komarev.com/ghpvc/?username=DracoY-code&color=brightgreen&style=flat-square&label=profile+views)
 
 My name is **Yashvardhan Singh** but you can call me __draco__. I am a National Talent Search Examination (NTSE) scholar, since 2019. I am currently a Software Engineering major pursuing my degree from the [Delhi Technological University, India](http://dtu.ac.in/) with a serious passion to learn and explore new ideas through computers and music.
