@@ -50,7 +50,7 @@ My name is __Yashvardhan Singh__, but you can call me __Draco__. I am a National
 [reddit]: https://reddit.com/user/dracolotl/
 [spotify]: https://open.spotify.com/user/31xwqzn4wadzt5eo7mnkaqcbotja?si=f25f2f1479214d87/
 [linkedin]: https://www.linkedin.com/in/yvsingh088/
-[twitch]: https://www.twitch.tv/dracoy_08/
+[twitch]: https://www.twitch.tv/dracolotl/
 [instagram]: https://www.instagram.com/evildracoy/
 [twitter]: https://twitter.com/evildracoy/
 
