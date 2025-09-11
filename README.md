@@ -28,13 +28,13 @@
 
 My name is __Yashvardhan Singh__, but you can call me __Draco__. I am a National Talent Search Examination (NTSE) scholar (2019) and a Software Engineering graduate from [Delhi Technological University, India](http://dtu.ac.in). I am passionate about exploring technology, creative media, and music, and I enjoy building projects that blend technical skill with creativity.
 
-* I enjoy exploring and working with full-stack development, data-driven applications, and modern ML frameworks, blending coding skills with analytical problem-solving.
-* Passionate about game development, 3D modeling, concept art, music production, and writing, I like creating projects that combine technical expertise with creativity.
-* I love performing empirical research, building models, creating visualizations, and experimenting with algorithms to extract insights from data.
-* I aim to develop projects that integrate software engineering, machine learning, and interactive media, while continuously experimenting with new technologies.
-* I have experience with Python, C++, Rust, React, Node.js, TensorFlow, PyTorch, and enjoy learning new programming languages and tools.
-* I’m curious and open-minded, and I enjoy collaborating on interesting projects, so my DMs are always open.
-* Other interests include photography, video games, and audio engineering, always exploring how tech and creativity intersect.
+* I enjoy exploring and working with __full-stack development workflows__, __data-driven applications__, and __modern ML frameworks__, blending coding skills with analytical problem-solving.
+* Passionate about __game development__, __3D modeling__, __concept art__, __music production__, and __writing__, I like creating projects that combine technical expertise with creativity.
+* I love performing __empirical research__, __building models__, __creating visualizations__, and __experimenting with algorithms__ to extract insights from data.
+* I aim to develop projects that integrate __software engineering__, __machine learning__, and __interactive media__, while continuously experimenting with new technologies.
+* I have experience with __Python__, __C++__, __Rust__, __Kotlin__, __React__, __SQL__, __TensorFlow__, __PyTorch__, __Docker__, and enjoy learning new programming languages and tools.
+* I’m curious and open-minded, and I enjoy collaborating on interesting projects, so my __DMs are always open__.
+* Other interests include __photography__, __video games__, and __audio engineering__, always exploring how tech and creativity intersect.
 
 ### Connect with me:
 
