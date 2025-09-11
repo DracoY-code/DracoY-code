@@ -8,7 +8,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql&style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-grey?logo=jupyter&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-grey?logo=vscodium&style=flat)
-![Kaggle](https://img.shields.io/badge/Kaggle-grey?logo=kaggle&style=flat)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-grey?logo=huggingface&style=flat)
 ![counter](https://komarev.com/ghpvc/?username=DracoY-code&color=brightgreen&style=flat-square&label=profile+views)
 
