@@ -1,7 +1,9 @@
 ### Hey, it's Draco aka [DracoY-code][github] 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/DracoY-code?color=%23181717&logo=GitHub)
+
 ![Python](https://img.shields.io/badge/Python-grey?logo=python&style=flat)
+![C++](https://img.shields.io/badge/C++-grey?logo=cplusplus&style=flat)
 ![Rust](https://img.shields.io/badge/Rust-grey?logo=rust&style=flat)
 ![Kotlin](https://img.shields.io/badge/Kotlin-grey?logo=kotlin&style=flat)
 ![Android](https://img.shields.io/badge/Android-grey?logo=android&style=flat)
@@ -10,6 +12,7 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-grey?logo=aseprite&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql&style=flat)
 ![MongoDB](https://img.shields.io/badge/MongoDB-grey?logo=mongodb&style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-grey?logo=tensorflow&style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-grey?logo=pytorch&style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-grey?logo=jupyter&style=flat)
 ![NumPy](https://img.shields.io/badge/NumPy-grey?logo=numpy&style=flat)
