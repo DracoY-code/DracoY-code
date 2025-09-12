@@ -1,7 +1,6 @@
 ### Hey, it's Draco aka [DracoY-code][github] 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/DracoY-code?color=%23181717&logo=GitHub)
-
 ![Python](https://img.shields.io/badge/Python-grey?logo=python&style=flat)
 ![C++](https://img.shields.io/badge/C++-grey?logo=cplusplus&style=flat)
 ![Rust](https://img.shields.io/badge/Rust-grey?logo=rust&style=flat)
