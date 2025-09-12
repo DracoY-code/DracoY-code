@@ -28,7 +28,7 @@
 
 My name is __Yashvardhan Singh__, but you can call me __Draco__. I am a National Talent Search Examination (NTSE) scholar (2019) and a Software Engineering graduate from [Delhi Technological University, India](http://dtu.ac.in). I am passionate about exploring technology, creative media, and music, and I enjoy building projects that blend technical skill with creativity.
 
-* I enjoy exploring and working with __full-stack development workflows__, __data-driven applications__, and __modern ML frameworks__, blending coding skills with analytical problem-solving.
+* I enjoy exploring and working with __full-stack development workflows__, __data-driven applications__, and __modern machine learning frameworks__, blending coding skills with analytical problem-solving.
 * Passionate about __game development__, __3D modeling__, __concept art__, __music production__, and __writing__, I like creating projects that combine technical expertise with creativity.
 * I love performing __empirical research__, __building models__, __creating visualizations__, and __experimenting with algorithms__ to extract insights from data.
 * I aim to develop projects that integrate __software engineering__, __machine learning__, and __interactive media__, while continuously experimenting with new technologies.
